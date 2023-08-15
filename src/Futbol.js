@@ -96,7 +96,7 @@ function Futbol() {
               </div>
             ))
           ) : (
-            <p>Nenhum resultado disponível</p>
+            <p style={{fontSize:'120px', textAlign:'center', color:'white'}}>Seleccione una liga</p>
           )}
         </div>
         <button
